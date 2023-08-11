@@ -1,8 +1,5 @@
 // creating an array where the books will be stored
-let myLibrary = [
-    {title: 'The Lost of the Rings', author: 'J.R.R. Tolkien', pages: 1178, read: 'already read'}, 
-    {title: 'Don Quixote', author: 'Miguel de Cervantes', pages: 1072, read: 'not read yet'}, 
-];
+let myLibrary = [];
 
 console.log(myLibrary);
 
