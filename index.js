@@ -47,7 +47,7 @@ function addBookToLibrary() {
         return;
     };
     myLibrary.push(new Book( title, author, pages, read ));
-    console.log(myLibrary); //just to make sure it's working
+    
 
     //adding the rows to the table 
 
